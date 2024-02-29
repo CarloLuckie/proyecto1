@@ -1,0 +1,48 @@
+/* Estilos para el cuerpo y encabezado */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Estilos para la sección "Sobre Nosotros" */
+#about-us {
+    background-color: hsl(300, 71%, 33%); /* Color de fondo */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilos para los títulos */
+h1, h2, h3 {
+    color: #ff6600; /* Color naranja para los títulos */
+    font-weight: bold; /* Texto en negrita */
+}
+
+/* Estilos para los párrafos */
+p {
+    color: #6c757d; /* Color del texto secundario */
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #007bff; /* Color del enlace */
+}
+
+a:hover {
+    color: #0056b3; /* Color del enlace al pasar el mouse */
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #343a40; /* Color de fondo del pie de página */
+    color: #fff; /* Color del texto en el pie de página */
+    padding: 20px 0;
+}
+
+/* Otros estilos según tu preferencia */
